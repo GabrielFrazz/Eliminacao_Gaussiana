@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668287564 source:c:\users\bielf\onedrive\documents\blocks\testes\eliminacao_gaussiana\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
